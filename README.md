@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Que tal, soy <a href="https://aristi.dev">Ever</a> 👋</h1>
 </div>
-<img src="https://imgur.com/bT1eZQo">
+<img src="https://i.imgur.com/bT1eZQo.jpg">
 
 ## Sobre mi
 
@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Zigzag Unity</h3>
 <div align="center">
-<a href="https://github.com/Kirersays1/zigzag" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Videojuego Zigzag"></a>
+<a href="https://github.com/Kirersays1/zigzag" target="_blank"><img src="https://i.imgur.com/bT1eZQo.jpg" width="400" alt="Videojuego Zigzag"></a>
 <p>
 <a href="https://github.com/Kirersays1/zigzag" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c#,css,discord,docker,dynamodb,figma,firebase,github,html,java,js,kotlin,linux,md,mongodb,mysql,nodejs,postman,py,react,ts,vscode,kali&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,blender,aws,bootstrap,cpp,cs,bots,eclipse,ai,gulp,latex,idea,kafka,obsidian,pr,ps,visualstudio,kali,replit,unity,unreal,css,discord,docker,dynamodb,figma,firebase,github,html,java,js,kotlin,linux,md,mongodb,mysql,nodejs,postman,py,react,ts,vscode,arduino&perline=14" />
   </a>
 </p>
 

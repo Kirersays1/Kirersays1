@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Que tal, soy <a href="https://aristi.dev">Ever</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/EHkrqrB">
+<img src="https://imgur.com/bT1eZQo">
 
 ## Sobre mi
 

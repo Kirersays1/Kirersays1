@@ -26,7 +26,6 @@
 <p>Videojuego sencillo realizado en Unity para dispositivos moviles</p>
 </div>
 
-                                                                            <tr>
 <td width="50%">
 <h3 align="center">Piggy Bank</h3>
 <div align="center">

@@ -1,83 +1,89 @@
 <div align="center">
-<h1 align="center">Que tal, soy <a href="">Ever</a> 👋</h1>
-</div>
-<img src="">
-
-## Sobre mi
-
-- 👨‍💻 Ingeniero en IT
-- 🕵️ Ciberseguridad
-- 📲 Desarrollador Movil
-- 🎮 Game developer
-- 💹 Data Analyst
-<br>
-
-## Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Zigzag Unity</h3>
-<div align="center">
-<a href="https://github.com/Kirersays1/zigzag" target="_blank"><img src="https://i.imgur.com/bT1eZQo.jpg" width="400" alt="Videojuego Zigzag"></a>
-<p>
-<a href="https://github.com/Kirersays1/zigzag" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</p>
-<p>Videojuego sencillo realizado en Unity para dispositivos moviles</p>
+  <h1>Hi, I'm Ever 👋</h1>
+  <p align="center">
+    <strong>IT Engineer | Cybersecurity Enthusiast | Multi-Platform Developer</strong>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=50" width="100%" />
 </div>
 
-<td width="50%">
-<h3 align="center">Piggy Bank</h3>
-<div align="center">
-<a href="https://github.com/Kirersays1/PiggyBank" target="_blank"><img src="https://i.imgur.com/KYCpdnw.png" width="400" alt="Piggy Bank"></a>
-<p>
-<a href="https://github.com/Kirersays1/PiggyBank" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</p>
-<p>DEMO de control financiero local</p>
-</div>
-</td>                                                    
-</table>                                                                                 
-</div>
-<br>
+<br />
 
+## 📖 About Me
+I am a versatile **IT Engineer** with a passion for building secure, scalable, and engaging digital experiences. My expertise spans across multiple domains of the tech industry:
 
-<br>
-<!--Tecnologias y contacto -->
+- 🛡️ **Cybersecurity:** Focused on penetration testing and digital forensics.
+- 📱 **Mobile & Web Development:** Creating seamless native and cross-platform apps.
+- 🎮 **Game Development:** Crafting immersive experiences using Unity and Unreal Engine.
+- 📊 **Data Scientist:** Transforming raw data into actionable business insights.
+- 💻 **Software Engineering:** Building robust backend systems and modern UIs.
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que manejo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3 align="center">Portfolio</h3>
+      <a href="https://kirersays1.github.io/portfolio/" target="_blank">
+        <img src="">
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://kirersays1.github.io/portfolio">
+          <img src="https://img.shields.io/badge/VIEW_CODE-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p>My personal portfolio where i also upload and update my projects and papers</p>
+    </td>
+    <td width="50%" align="center">
+      <h3 align="center">AI Healthcare Notebooks</h3>
+      <a href="https://github.com/Kirersays1/AI-Healthcare" target="_blank">
+        <img src="https://i.imgur.com/s1uhous.png" width="100%" style="border-radius:10px;" alt="Piggy Bank App">
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/Kirersays1/AI-Healthcare">
+          <img src="https://img.shields.io/badge/VIEW_CODE-black?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p>Notebooks about research in Health field using IA</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,blender,aws,bootstrap,cpp,cs,bots,eclipse,ai,gulp,latex,idea,kafka,obsidian,pr,ps,visualstudio,kali,replit,unity,unreal,css,discord,docker,dynamodb,figma,firebase,github,html,java,js,kotlin,linux,md,mongodb,mysql,nodejs,postman,py,react,ts,vscode,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,blender,aws,latex,unity,css,docker,figma,firebase,github,kotlin,linux,md,mongodb,mysql,nodejs,postman,py&perline=14" />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactame</h2></summary>
-  </ul>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kirersays1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kirersays1&layout=compact&langs_count=8&theme=algolia" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/everessaurodriguezsandoval/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kirersays1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/everessaurodriguezsandoval/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Kirersays1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kirersays1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kirersays1&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
